@@ -1,5 +1,5 @@
-# TDA-BASICO
-Aplicación de consola utilizando un TDA básico
+# APLICACIÓN DE CONSOLA UTILIZANDO UN TDA BÁSICO
+
 
 Este programa es un ejemplo básico en donde se utiliza un Tipo de Dato Abstracto, dicho programa fue hecho en el entorno de programación de Dev C++. Asimismo, se muestran unas capturas de pantalla del código fuente del programa, tambien se muestra la ejecución del programa.
 
